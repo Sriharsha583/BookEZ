@@ -1,17 +1,1 @@
-Github:
-sriharshasutrave@gmail.com	
-Github@08
 
-
-
--Removing unwanted attributes.
--Visualizingrelationof independent variableswitheach other and outputvariables.
--Checking and changing distribution of continuous values.
--Removing outliers
--Cleaning data and imputingifnullvaluesare present.
--Transforming data to yield the desired result.
- 
-DATASET INFORMATION
-This is a Sales related dataset that contains Information like Sales 
-Amt., Cost Amt., Sales Prices, List Prices, Sales Margins, Sales 
-Quantities, etc.
